@@ -63,8 +63,8 @@ body {
         margin-bottom: 100px;
         padding: 30px;
         border-style: solid;
-        max-width: 960px;
-        height: 420px;
+        max-width: 898px;
+        height: 440px;
         border-width: 1px;
         border-color: #dddddd;
         background-color: white;
@@ -73,11 +73,11 @@ body {
         padding-left: 30px;
         padding-right: 30px; */
     }
-
-    /* "ABOUT ME" */
  
 
     /* LINE BETWEEN 'ABOUT ME' AND PARAGRAPH BIO */
+    
+        /* "ABOUT ME" */
         h1 {
             color: #4aaaa5;
             font-family: Georgia, 'Times New Roman', Times, serif;
