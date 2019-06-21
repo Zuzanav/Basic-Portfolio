@@ -1,3 +1,17 @@
+/* NOTE TO TA WHO WILL REVIEW THIS ASSIGNMENT: 
+There are a few things in this assignment I would still improve. 
+This includes: 
+    - I have hard coded some of the sizes of the divs and secstions.
+    As a result they are not responsive to browser window and device sizes. 
+    - the navigation bar links move as one scrolls with the page - I meant to fix this
+    - the placement of the LOGO and NAV BAR are fixed and the web page
+    only resembles the image we're to copy at a certain window size. 
+    It's not responsive. 
+    - I have 3 style sheets. 1 for each web page. I wasn't sure if I was 
+    supposed to create 1 for everything or 1 for each. 
+*/
+
+
 /* THE ENTIRE SITE */
 body {
     margin: 0;
@@ -20,7 +34,7 @@ body {
     header {
         clear: both;
         background-color: #4aaaa5;
-        color: #f9f8ed;
+        color: #ffffff;
         font-size: 30px;
         font-weight: bold;
         font-family: Georgia, 'Times New Roman', Times, serif;
